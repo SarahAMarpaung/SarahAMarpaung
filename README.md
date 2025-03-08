@@ -2,10 +2,6 @@
 
 ### 🎨✨ Welcome to **My World!** I'm **Sarah Agnes Br Marpaung** 🚀  
 
-<div align="center">
-  <img src="https://source.unsplash.com/1600x400/?technology,coding,design" alt="Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 255, 255, 0.5);"/>
-</div>  
-
 ---
 
 ## 🌟 About Me  
