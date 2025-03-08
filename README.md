@@ -11,16 +11,16 @@
 ## 🌟 About Me  
 
 ```yaml
-name: Sarah Agnes Br Marpaung
-role: Tech Enthusiast & Software Developer
-university: Universitas Sumatera Utara (USU)
-passions:
+Name: Sarah Agnes Br Marpaung
+Role: Tech Enthusiast & Software Developer
+University: Universitas Sumatera Utara (USU)
+Passions:
   - UI/UX Design & Frontend Development
   - Artificial Intelligence & Machine Learning
   - Full-Stack Development
   - Open Source Contributions
   - Tech Blogging & Writing
-quote: "Learning never exhausts the mind." - Leonardo da Vinci
+Quote: "Learning never exhausts the mind." - Leonardo da Vinci
 ```
 
 ---
@@ -39,14 +39,11 @@ quote: "Learning never exhausts the mind." - Leonardo da Vinci
 
 > **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
 
 > **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/-Git-FF6F61?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-00C9A7?style=flat&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 
 ---
 
