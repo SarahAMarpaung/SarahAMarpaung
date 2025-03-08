@@ -1,7 +1,4 @@
 ### 🎨✨ Welcome to My World! I'm **Sarah Agnes Br Marpaung** 🚀
-
-![Banner]([https://source.unsplash.com/1600x400/?technology,coding,design](https://unsplash.com/photos/blue-and-black-digital-wallpaper-bKESVqfxass))
-
 ---
 
 🌟 **About Me:**  
