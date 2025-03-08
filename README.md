@@ -45,9 +45,9 @@ Hi there! 👋 I'm a passionate **tech enthusiast** and **software developer** w
 ---
 
 ## 📊 GitHub Stats & Activity 🔥
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SarahAgnes&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SarahAMarpaung&theme=tokyonight&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahAgnes&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahAMarpaung&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
