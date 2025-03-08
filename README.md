@@ -68,26 +68,4 @@ Quote: "Learning never exhausts the mind." - Leonardo da Vinci
 
 ---
 
-## 🎨 CSS Animation for README (Add to GitHub Profile)  
-
-Jika kamu ingin menambahkan animasi di GitHub README dengan CSS, kamu bisa menambahkan ini di dalam file `README.md`-mu menggunakan **HTML + CSS**:  
-
-```html
-<style>
-  @keyframes glow {
-    0% { text-shadow: 0 0 5px cyan, 0 0 10px cyan; }
-    50% { text-shadow: 0 0 15px cyan, 0 0 30px cyan; }
-    100% { text-shadow: 0 0 5px cyan, 0 0 10px cyan; }
-  }
-  h1, h2, h3 {
-    color: cyan;
-    animation: glow 1.5s infinite alternate;
-  }
-</style>
-
-<h1 align="center">🚀 Code. Create. Innovate! 🚀</h1>
-```
-
----
-
-🔥 **Hope you like it! Let me know if you want more tweaks!** 🚀💙
+## 🎨 CSS Animation for README 
